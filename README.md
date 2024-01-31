@@ -1,11 +1,11 @@
-# Uvod u mašinsko učenje
-Radionica 2.10.2022 artificial intelligence 101 - uvod u ML
-# Podaci preuzeti sa Kaggle
+# Intro to machine learning - BEST
+Workshop 2.10.2022 artificial intelligence 101 - intro to ML
+# Data from Kaggle
 https://www.kaggle.com/competitions/customer-churn-prediction-2020/data
-## Projekti 
-- [x] Predviđanje odlaska klijenata (churn) :tada:
+## Projects 
+- [x] Predicting client retention (churn) :tada:
 ```
-git clone https://github.com/Stefi96/MLRadionica
+git clone https://github.com/Stefi96/MLWorkshop
 ```
-- [ ] Predviđanje srčanih oboljenja pacijenata
-- [ ] Predviđanje cena polovnih vozila
+- [ ] Predicting patient heart disease
+- [ ] Predicting car prices
