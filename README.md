@@ -5,7 +5,7 @@ https://www.kaggle.com/competitions/customer-churn-prediction-2020/data
 ## Projects 
 - [x] Predicting client retention (churn) :tada:
 ```
-git clone https://github.com/Stefi96/MLWorkshop
+git clone https://github.com/stefisha/MLWorkshop-BEST
 ```
 - [ ] Predicting patient heart disease
 - [ ] Predicting car prices
